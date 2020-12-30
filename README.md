@@ -18,7 +18,6 @@ mail - i47uen@ya.ru
 vk.com - @i47uen
 ```
 
-<br/>
 **👊 My stack:**
 ```
 HTML / CSS (SCSS) / JS / jQUery / GULP /
