@@ -4,10 +4,10 @@ Did I mention that I like to write in JS?
 
 <br/>
 **🔭 Im currently working**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🌱 Im currently studying** <br/>
-&nbsp;*my portfolio website*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Axios* <br/>
+&nbsp;*my portfolio website*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Axios* 
 
 
-**📫 How to reach me:** 
+<br/>**📫 How to reach me:** 
 ```
 telegram - @i47uen
 ```
