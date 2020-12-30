@@ -7,7 +7,7 @@ Did I mention that I like to write in JS?
 &nbsp;*my portfolio website*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Axios* 
 
 
-<br/>**📫 How to reach me:** 
+**📫 How to reach me:** 
 ```
 telegram - @i47uen
 ```
