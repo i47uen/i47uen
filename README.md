@@ -3,7 +3,7 @@
 Did I mention that I like to write in JS?
 
 🔭 Im currently working  &nbsp;&nbsp;&nbsp; 🌱 Im currently studying <br/>
-**my portfolio website** &nbsp;&nbsp;&nbsp; **Axios** 
+&nbsp;**my portfolio website** &nbsp;&nbsp;&nbsp;&nbsp; **Axios** 
 
 **📫 How to reach me:** 
 ```
