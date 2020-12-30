@@ -5,5 +5,10 @@
 - 📫 How to reach me: 
   - telegram - @i47uen,   
   - mail - i47uen@ya.ru
-- 😄 Pronouns: ...
+- 👊 My stack:
+  - HTML / CSS (SCSS) / JS / jQUery / GULP / 
+  - VueJS / VueRouter / Vuex / Vuelidate / Axios / 
+  - Bootstrap / Bulma /
+  - Git (I had no experience working in a team) / Linux ❤️
+  - Photoshop / figma / avocode
 
