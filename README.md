@@ -2,9 +2,8 @@
 **🧔 Briefly about me:** Web Developer, live in __Russia__, really like to write code in __JS__ and play the __guitar__ 🎸, I am a __night owl__ 🦉 and usually work at night, do not have much __commercial experience__ 💼, I am always ready to __learn__ new things 🏃‍♂️. <br/>
 Did I mention that I like to write in JS?
 
-🔭 Im currently working on my portfolio website | | 🌱 Im currently studying Axios
-Markdown | Less | Pretty
---- | --- | ---
+🔭 Im currently working on | 🌱 Im currently studying |
+**my portfolio website** | Axios |
 
 **📫 How to reach me:** 
 ```
