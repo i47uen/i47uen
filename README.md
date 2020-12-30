@@ -2,11 +2,11 @@
 **🧔 Briefly about me:** Web Developer, live in __Russia__, really like to write code in __JS__ and play the __guitar__ 🎸, I am a __night owl__ 🦉 and usually work at night, do not have much __commercial experience__ 💼, I am always ready to __learn__ new things 🏃‍♂️. <br/>
 Did I mention that I like to write in JS?
 
-
+<br/>
 **🔭 Im currently working**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🌱 Im currently studying** <br/>
 &nbsp;*my portfolio website*  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Axios* 
 
-
+<br/>
 **📫 How to reach me:** 
 ```
 telegram - @i47uen
@@ -18,7 +18,7 @@ mail - i47uen@ya.ru
 vk.com - @i47uen
 ```
 
-
+<br/>
 **👊 My stack:**
 ```
 HTML / CSS (SCSS) / JS / jQUery / GULP /
