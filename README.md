@@ -6,3 +6,4 @@
 - 😄 Pronouns: ...
 
 <a href="#" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/2111/2111646.svg" alt="telegram" width="30"></a>
+<a href="mailto:i47uen@ya.ru" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/1782/1782765.svg" alt="email" width="30"></a>
