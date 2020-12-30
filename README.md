@@ -7,13 +7,13 @@ Did I mention that I like to write in JS?
 
 **📫 How to reach me:** 
 ```
-telegram - @i47uen
+telegram - **@i47uen**
 ```
 ```
-mail - i47uen@ya.ru
+mail - **i47uen@ya.ru**
 ```
 ```
-vk.com - @i47uen
+vk.com - **@i47uen**
 ```
 
 **👊 My stack:**
