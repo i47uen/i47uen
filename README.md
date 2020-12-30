@@ -2,11 +2,11 @@
 **Briefly about me:** I am a Web Developer, I live in Russia, I really like to write code in JS and play the guitar, I am a night owl 🦉 and usually work at night, I do not have much commercial experience 💼, I am always ready to learn new things 🏃‍♂️. 
 Did I mention that I like to write in JS?
 
-__
- 🔭 I’m currently working on my portfolio website
- 🌱 I'm currently studying Axios
- 📫 How to reach me: 
-__
+
+- 🔭 I’m currently working on my portfolio website
+- 🌱 I'm currently studying Axios
+- 📫 How to reach me: 
+
 ```
 telegram - @i47uen
 ```
