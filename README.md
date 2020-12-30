@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋 I'm Ivan Danilov - Junior Frontend developer 
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I'm currently studying Axios
