@@ -5,8 +5,8 @@ Did I mention that I like to write in JS?
 
 - 🔭 I’m currently working on my portfolio website
 - 🌱 I'm currently studying Axios
-- 📫 How to reach me: 
 
+**📫 How to reach me:** 
 ```
 telegram - @i47uen
 ```
