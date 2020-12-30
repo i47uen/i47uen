@@ -26,6 +26,8 @@ Bootstrap / Bulma /
 ```
 ```
 Git (I had no experience working in a team) / Linux ❤️
+```
+```
 Photoshop / figma / avocode
 ```
 
