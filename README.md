@@ -3,6 +3,8 @@
 Did I mention that I like to write in JS?
 
 🔭 Im currently working on my portfolio website | | 🌱 Im currently studying Axios
+Markdown | Less | Pretty
+--- | --- | ---
 
 **📫 How to reach me:** 
 ```
