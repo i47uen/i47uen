@@ -1,10 +1,6 @@
 ### Hello there 👋 I'm Ivan Danilov - Junior Frontend developer
-**Briefly about me:** I am a Web Developer, I live in Russia, <br/>
-I really like to write code in JS and play the guitar 🎸, <br/>
-I am a night owl 🦉 and usually work at night, <br/>
-I do not have much commercial experience 💼, <br/>
-I am always ready to learn new things 🏃‍♂️. <br/>
-Did I mention that I like to write in JS?
+**Briefly about me:** I am a Web Developer, I live in Russia, I really like to write code in JS and play the guitar 🎸, I am a night owl 🦉 and usually work at night, I do not have much commercial experience 💼, I am always ready to learn new things 🏃‍♂️. 
+**Did I mention that I like to write in JS?**
 
 
 - 🔭 I’m currently working on my portfolio website
