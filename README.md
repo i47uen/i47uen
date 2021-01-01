@@ -6,12 +6,12 @@ Did I mention that I like to write in JS?
 **🔭 Im currently working**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🌱 Im currently studying** <br/>
 &nbsp;&nbsp;my portfolio website  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Axios 
 
-**💼 My ![codepen](https://codepen.io/i47uen)**
+**💼 My [codepen](https://codepen.io/i47uen)**
 
 **📫 How to reach me:** <br/>
-![telegram](https://t.me/i47uen) ``` @i47uen ``` <br/>
-![mail](mailto:i47uen@ya.ru) ``` i47uen@ya.ru``` <br/>
-![vk.com](https://vk.com/i47eun)``` @i47uen ``` <br/>
+[telegram](https://t.me/i47uen) ``` @i47uen ``` <br/>
+[mail](mailto:i47uen@ya.ru) ``` i47uen@ya.ru``` <br/>
+[vk.com](https://vk.com/i47eun)``` @i47uen ``` <br/>
 
 **👊 My stack:**
 ```
