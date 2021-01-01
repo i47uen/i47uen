@@ -29,7 +29,7 @@ VueJS / VueRouter / Vuex / Vuelidate / Axios /
 Bootstrap / Bulma /
 ```
 ```
-Git (I had no experience working in a team) / Linux ❤️ / I also have experience with hosting
+Git (I had no experience working in a team) / Linux ❤️ / I also have experience with hosting /
 ```
 ```
 Photoshop / figma / avocode
