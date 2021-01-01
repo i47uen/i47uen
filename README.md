@@ -9,9 +9,8 @@ Did I mention that I like to write in JS?
 **💼 ![My Codepen](https://codepen.io/i47uen)**
 
 **📫 How to reach me:** 
-```
-telegram - @i47uen
-```
+``` telegram - @i47uen ```
+
 ```
 mail - i47uen@ya.ru
 ```
