@@ -9,12 +9,10 @@ Did I mention that I like to write in JS?
 **💼 ![My Codepen](https://codepen.io/i47uen)**
 
 **📫 How to reach me:** 
-![telegram](https://t.me/i47uen)``` @i47uen ```
+![telegram](https://t.me/i47uen) ``` @i47uen ``` \n
 
-```![mail](mailto:i47uen@ya.ru) - i47uen@ya.ru```
-```
-vk.com - @i47uen
-```
+![mail](mailto:i47uen@ya.ru) ``` i47uen@ya.ru``` \n
+![vk.com](https://vk.com/i47eun)``` @i47uen ```
 
 **👊 My stack:**
 ```
