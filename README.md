@@ -3,9 +3,6 @@
 Did I mention that I like to write in JS?
 
 
-**🔭 Im currently working**  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **🌱 Im currently studying** <br/>
-&nbsp;&nbsp;my portfolio website  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Axios 
-
 **💼 My <a href="https://codepen.io/i47uen" target="_blank">codepen</a>**
 
 **📫 How to reach me:** <br/>
