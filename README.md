@@ -14,9 +14,7 @@ Did I mention that I like to write in JS?
 ```
 HTML / CSS (SCSS) / JS / jQUery / GULP /
 ```
-```
-~~VueJS / VueRouter / Vuex / Vuelidate / Axios ~~
-```
+
 ```
 Bootstrap / Bulma /
 ```
