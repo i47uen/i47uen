@@ -1,9 +1,4 @@
-### Hello there 👋 Im Ivan - Junior Frontend developer
-**🧔 Briefly about me:** Web Developer, live in __Russia__, really like to write code in __JS__ and play the __guitar__ 🎸, I am a __night owl__ 🦉 and usually work at night, I don't have much experience working in a team 💼, I am always ready to __learn__ new things 🏃‍♂️. <br/>
-Did I mention that I like to write in JS?
-
-
-**💼 My <a href="https://codepen.io/i47uen" target="_blank">codepen</a>**
+empty
 
 **📫 How to reach me:** <br/>
 - telegram https://t.me/i47uen
